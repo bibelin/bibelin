@@ -6,7 +6,7 @@
 
 🖥️ [KDE Neon](https://neon.kde.org/)
 
-📦 No flatpak or snap,  [pacstall](https://pacstall.dev/)🦙 rocks! See [the list of packages I maintain](https://pkg.go.dev/search?q=bibelin), and feel free to contact me in case of problems with them.
+📦 No flatpak or snap,  [pacstall](https://pacstall.dev/)🦙 rocks! See [the list of packages I maintain](https://pacstall.dev/packages?page=0&size=25&sortBy=default&sort=asc&filter=bibelin&filterBy=maintainer), and feel free to contact me in case of problems with them.
 
 🧰 Bash, Python, Go
 
