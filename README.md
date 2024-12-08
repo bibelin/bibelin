@@ -14,10 +14,3 @@
 
 ❤ God, family, cats, dogs, music, gaming, coding
 
-----
-
-### Contact me
-
-📫 balian1belin@yandex.ru
-
-🎮 Discord @balian1belin 
